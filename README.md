@@ -17,11 +17,14 @@ It aims to learn about sorting algorithms & data structures in C language.
           * in the best case
           * in the average case
           * in the worst case |
+| Filename                  | Description |
+| ------------------------- | ----------- |
 | `1-insertion_sort_list.c` | function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.|
 | `1-O` | the big O notations of the time complexity of the Insertion sort algorithm, with 1 notation per line:
           * in the best case
           * in the average case
           * in the worst case |
+| Filename
 | `2-selection_sort.c` | function that sorts an array of integers in ascending order using the Selection sort algorithm |
 | `2-O` | big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
           * in the best case
