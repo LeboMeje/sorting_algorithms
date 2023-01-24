@@ -9,13 +9,11 @@ It aims to learn about sorting algorithms & data structures in C language.
 
 ## Files
 
-| Filename                  | Description |
-| --------                  | ----------- |
-| `sort.h`                  | Header file that includes all the prototypes of all the functions |
-   ------                     -----------------------------------------------------------------
-| `0-bubble_sort.c`         | includes function that sorts an array of integers in ascending order using the Bubble sort algorithm. |
-   ---------------            -----------------------------------------------------------------------------------------------------
-| `0-O`                     | Includes big O notations of the time complexity of the Bubble sort algorithm, with 1 notation per line:
+| Filename | Description |
+| -------- | ----------- |
+| `sort.h` | Header file that includes all the prototypes of all the functions |
+| `0-bubble_sort.c`      | includes function that sorts an array of integers in ascending order using the Bubble sort algorithm. |
+| `0-O`                  | Includes big O notations of the time complexity of the Bubble sort algorithm, with 1 notation per line:
 *in the best case
 *in the average case
 *in the worst case|
