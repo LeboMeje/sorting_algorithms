@@ -24,23 +24,30 @@ It aims to learn about sorting algorithms & data structures in C language.
           * in the best case
           * in the average case
           * in the worst case |
-| Filename
+| Filename             | Description |
+| -------------------- | ----------- |
 | `2-selection_sort.c` | function that sorts an array of integers in ascending order using the Selection sort algorithm |
 | `2-O` | big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
           * in the best case
           * in the average case
           * in the worst case |
+| Filename         | Description |
+| ---------------- | ----------- |
 | `3-quick_sort.c` | function that sorts an array of integers in ascending order using the Quick sort algorithm                                              
 | `3-O` |  big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:
             * in the best case.
             * in the average case.
             * in the worst case. |
+| Filename           | Description |
+| ------------------ | ----------- |
 | `100-shell_sort.c` | function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence |
 | `101-cocktail_sort_list.c` | function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm |
 | `101-O` |  big O notations of the time complexity of the Cocktail shaker sort algorithm, with 1 notation per line:
              * in the best case.
              * in the average case.
              * in the worst case. |
+| Filename | Description |
+| -------- | ----------- |
 | `102-counting_sort.c` | function that sorts an array of integers in ascending order using the Counting sort algorithm |
 | `102-O` | big O notations of the time complexity of the Counting sort algorithm, with 1 notation per line:
             * in the best case.
